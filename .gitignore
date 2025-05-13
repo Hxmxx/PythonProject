@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+*.log
+
+# Streamlit
+.streamlit/
+
+# Audio & LRC outputs
+*.mp3
+*.wav
+*.lrc
+
+# Whisper logs
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
