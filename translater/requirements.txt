@@ -3,5 +3,5 @@ yt-dlp
 faster-whisper
 pydub
 numpy
-torch  # faster-whisper에서 내부적으로 사용
-ffmpeg-python  # pydub 사용 시 필요할 수 있음
+torch
+ffmpeg-python
